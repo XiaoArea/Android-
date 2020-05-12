@@ -4,7 +4,7 @@
 ## Java基础
 
 1. **泛型**
-    - [作用与定义](#)
+    - [作用与定义](https://github.com/XiaoArea/Learning-route/blob/master/document/Java%E5%9F%BA%E7%A1%80/%E6%B3%9B%E5%9E%8B/%E6%B3%9B%E5%9E%8B%E7%9A%84%E4%BD%9C%E7%94%A8%E4%B8%8E%E5%AE%9A%E4%B9%89.md)
     - [通配符与嵌套](#)
     - [上下边界](#)
     - [RxJava中的使用](#)
