@@ -16,6 +16,9 @@
 
 ---
 
+## 思维导图
+![image](https://note.youdao.com/yws/api/personal/file/5FD4D5E083194785ACAA77F9462D8342?method=download&shareKey=65878145e2ed4a5b367d61039cb51d4a)
+
 ## <a name="#1">Java基础</a>
 
 1. **泛型**
