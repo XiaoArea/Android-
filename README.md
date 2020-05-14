@@ -8,14 +8,14 @@
 1. **泛型**
     - [作用与定义](https://github.com/XiaoArea/Learning-route/blob/master/document/Java%E5%9F%BA%E7%A1%80/%E6%B3%9B%E5%9E%8B/%E6%B3%9B%E5%9E%8B%E7%9A%84%E4%BD%9C%E7%94%A8%E4%B8%8E%E5%AE%9A%E4%B9%89.md)
     - [通配符与嵌套](https://github.com/XiaoArea/Learning-route/blob/master/document/Java%E5%9F%BA%E7%A1%80/%E6%B3%9B%E5%9E%8B/%E6%B3%9B%E5%9E%8B%E7%9A%84%E9%80%9A%E9%85%8D%E7%AC%A6%E4%B8%8E%E5%B5%8C%E5%A5%97.md)
-    - [上下边界](#)
+    - [上下边界](https://github.com/XiaoArea/Learning-route/blob/master/document/Java%E5%9F%BA%E7%A1%80/%E6%B3%9B%E5%9E%8B/%E6%B3%9B%E5%9E%8B%E4%B8%8A%E4%B8%8B%E8%BE%B9%E7%95%8C.md)
 	
 2. **注解**
-    - [内置注解、元注解、自定义注解、参数与默认值](#)
-    - [APT，编译时注解处理器](#)
-    - [插桩，编译后处理筛选](#)
-    - [反射，运行时动态获取](#)
-    - [自定义Gradle插件，Transform](#)
+    - [内置注解、元注解、自定义注解、参数与默认值](https://github.com/XiaoArea/Learning-route/blob/master/document/Java%E5%9F%BA%E7%A1%80/%E6%B3%A8%E8%A7%A3/%E5%86%85%E7%BD%AE%E6%B3%A8%E8%A7%A3%E3%80%81%E5%85%83%E6%B3%A8%E8%A7%A3%E3%80%81%E8%87%AA%E5%AE%9A%E4%B9%89%E6%B3%A8%E8%A7%A3%E3%80%81%E5%8F%82%E6%95%B0%E4%B8%8E%E9%BB%98%E8%AE%A4%E5%80%BC.md)
+    - [APT，编译时注解处理器](https://github.com/XiaoArea/Learning-route/blob/master/document/Java%E5%9F%BA%E7%A1%80/%E6%B3%A8%E8%A7%A3/APT%EF%BC%8C%E7%BC%96%E8%AF%91%E6%97%B6%E6%B3%A8%E8%A7%A3%E5%A4%84%E7%90%86%E5%99%A8.md)
+    - [插桩，编译后处理筛选](https://github.com/XiaoArea/Learning-route/blob/master/document/Java%E5%9F%BA%E7%A1%80/%E6%B3%A8%E8%A7%A3/%E6%8F%92%E6%A1%A9%EF%BC%8C%E7%BC%96%E8%AF%91%E5%90%8E%E5%A4%84%E7%90%86%E7%AD%9B%E9%80%89.md)
+    - [反射，运行时动态获取](https://github.com/XiaoArea/Learning-route/blob/master/document/Java%E5%9F%BA%E7%A1%80/%E6%B3%A8%E8%A7%A3/%E5%8F%8D%E5%B0%84%EF%BC%8C%E8%BF%90%E8%A1%8C%E6%97%B6%E5%8A%A8%E6%80%81%E8%8E%B7%E5%8F%96.md)
+    - [自定义Gradle插件，Transform](https://github.com/XiaoArea/Learning-route/blob/master/document/Java%E5%9F%BA%E7%A1%80/%E6%B3%A8%E8%A7%A3/%E8%87%AA%E5%AE%9A%E4%B9%89Gradle%E6%8F%92%E4%BB%B6%EF%BC%8CTransform.md)
     
 3. **并发**
     - [CPU核心数、线程数与时间片轮机制](#)
