@@ -18,9 +18,9 @@
     - [自定义Gradle插件，Transform](https://github.com/XiaoArea/Learning-route/blob/master/document/Java%E5%9F%BA%E7%A1%80/%E6%B3%A8%E8%A7%A3/%E8%87%AA%E5%AE%9A%E4%B9%89Gradle%E6%8F%92%E4%BB%B6%EF%BC%8CTransform.md)
     
 3. **并发**
-    - [CPU核心数、线程数与时间片轮机制](#)
-    - [synchronized、Lock、volatile与ThreadLocal 实现线程共享](#)
-    - [Wait、Notify、NotifyAll与Join方法实现线程间协作](#)
+    - [CPU核心数、线程数与时间片轮机制](https://github.com/XiaoArea/Learning-route/blob/master/document/Java%E5%9F%BA%E7%A1%80/%E5%B9%B6%E5%8F%91/CPU%E6%A0%B8%E5%BF%83%E6%95%B0%E3%80%81%E7%BA%BF%E7%A8%8B%E6%95%B0%E4%B8%8E%E6%97%B6%E9%97%B4%E7%89%87%E8%BD%AE%E6%9C%BA%E5%88%B6.md)
+    - [synchronized、Lock、volatile与ThreadLocal 实现线程共享](https://github.com/XiaoArea/Learning-route/blob/master/document/Java%E5%9F%BA%E7%A1%80/%E5%B9%B6%E5%8F%91/synchronized%E3%80%81Lock%E3%80%81volatile%E4%B8%8EThreadLocal%20%E5%AE%9E%E7%8E%B0%E7%BA%BF%E7%A8%8B%E5%85%B1%E4%BA%AB.md)
+    - [Wait、Notify、NotifyAll与Join方法实现线程间协作](https://github.com/XiaoArea/Learning-route/blob/master/document/Java%E5%9F%BA%E7%A1%80/%E5%B9%B6%E5%8F%91/Wait%E3%80%81Notify%E3%80%81NotifyAll%E4%B8%8EJoin%E6%96%B9%E6%B3%95%E5%AE%9E%E7%8E%B0%E7%BA%BF%E7%A8%8B%E9%97%B4%E5%8D%8F%E4%BD%9C.md)
     - [CAS原理及ABA问题](#)
     - [Callbale、Future与FutureTask](#)
     - [线程池底层实现](#)
