@@ -42,7 +42,7 @@
     - [Dalvik虚拟机](https://github.com/XiaoArea/Learning-route/blob/master/document/Java%E5%9F%BA%E7%A1%80/JVM/Dalvik%E8%99%9A%E6%8B%9F%E6%9C%BA.md)
     
 6. **反射**
-    - [获取类信息、方法、属性、实例化](https://github.com/XiaoArea/Learning-route/blob/master/document/Java%E5%9F%BA%E7%A1%80/%E5%8F%8D%E5%B0%84/%E8%8E%B7%E5%8F%96%E7%B1%BB%E4%BF%A1%E6%81%AF%E3%80%81%E6%96%B9%E6%B3%95%E3%80%81%E5%B1%9E%E6%80%A7%E3%80%81%E5%AE%9E%E4%BE%8B%E5%8C%96.md)
+    - [反射基础](https://github.com/XiaoArea/Learning-route/blob/master/document/Java%E5%9F%BA%E7%A1%80/%E5%8F%8D%E5%B0%84/%E5%8F%8D%E5%B0%84%E5%9F%BA%E7%A1%80.md)
     - [动态代理](https://github.com/XiaoArea/Learning-route/blob/master/document/Java%E5%9F%BA%E7%A1%80/%E5%8F%8D%E5%B0%84/%E5%8A%A8%E6%80%81%E4%BB%A3%E7%90%86.md)
     - [Hook原理](https://github.com/XiaoArea/Learning-route/blob/master/document/Java%E5%9F%BA%E7%A1%80/%E5%8F%8D%E5%B0%84/Hook%E5%8E%9F%E7%90%86.md)
     - [Davilk与ART](https://github.com/XiaoArea/Learning-route/blob/master/document/Java%E5%9F%BA%E7%A1%80/%E5%8F%8D%E5%B0%84/Davilk%E4%B8%8EART.md)
